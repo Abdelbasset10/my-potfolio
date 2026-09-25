@@ -7,6 +7,7 @@ import { Footer } from "@/components/Footer";
 import { Hero } from "@/components/Hero";
 import { Navbar } from "@/components/Navbar";
 import { Projects } from "@/components/Projects";
+import { ScrollReveal } from "@/components/ScrollReveal";
 import { Skills } from "@/components/Skills";
 import { getResume } from "@/content";
 import { hasLocale } from "@/i18n/config";
@@ -39,6 +40,7 @@ export default async function Home({ params }: PageProps<"/[lang]">) {
       </main>
 
       <Footer name={resume.name} builtWith={dict.common.builtWith} />
+      <ScrollReveal key={lang} />
     </>
   );
 }
