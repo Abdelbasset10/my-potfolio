@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "title": "عبد الباسط غزازي — مطوّر Full Stack",
+    "description": "ملف أعمال غزازي محمد عبد الباسط، مطوّر Full Stack ومهندس برمجيات يبني تطبيقات الويب والهاتف باستخدام React وNext.js وNode.js."
+  },
+  "nav": {
+    "about": "نبذة عني",
+    "skills": "المهارات",
+    "experience": "الخبرة",
+    "projects": "المشاريع",
+    "education": "التعليم",
+    "contact": "تواصل",
+    "main": "القائمة الرئيسية",
+    "skipToContent": "انتقل إلى المحتوى",
+    "openMenu": "فتح القائمة",
+    "closeMenu": "إغلاق القائمة"
+  },
+  "theme": {
+    "toggle": "تبديل المظهر",
+    "light": "الوضع الفاتح",
+    "dark": "الوضع الداكن"
+  },
+  "language": {
+    "label": "اللغة"
+  },
+  "hero": {
+    "greeting": "مرحبًا، أنا",
+    "contact": "تواصل معي",
+    "resume": "تحميل السيرة الذاتية"
+  },
+  "sections": {
+    "about": {
+      "eyebrow": "نبذة عني",
+      "title": "تعرّف عليّ"
+    },
+    "skills": {
+      "eyebrow": "المهارات",
+      "title": "الأدوات التي أعمل بها"
+    },
+    "experience": {
+      "eyebrow": "الخبرة",
+      "title": "مساري المهني"
+    },
+    "community": "المجتمع والقيادة",
+    "projects": {
+      "eyebrow": "المشاريع",
+      "title": "ما قمت ببنائه"
+    },
+    "featured": "أعمال احترافية",
+    "personal": "مشاريع شخصية",
+    "moreOnGithub": "المزيد على GitHub",
+    "education": {
+      "eyebrow": "التعليم",
+      "title": "الدراسة والإنجازات"
+    },
+    "achievements": "الإنجازات",
+    "languages": "اللغات",
+    "contact": {
+      "eyebrow": "تواصل",
+      "title": "لنعمل معًا",
+      "text": "أنا منفتح على فرص وتعاونات جديدة. أسرع طريقة للتواصل معي هي البريد الإلكتروني.",
+      "email": "راسلني عبر البريد",
+      "copy": "نسخ البريد",
+      "copied": "تم النسخ!"
+    }
+  },
+  "common": {
+    "present": "حتى الآن",
+    "email": "البريد الإلكتروني",
+    "phone": "الهاتف",
+    "location": "الموقع",
+    "builtWith": "صُمّم باستخدام Next.js"
+  }
+}

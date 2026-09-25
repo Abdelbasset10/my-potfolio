@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "title": "Abdelbasset Rezazi — Full Stack Developer",
+    "description": "Portfolio of Rezazi Mohamed Abdelbasset, full stack developer and software engineer building web and mobile apps with React, Next.js and Node.js."
+  },
+  "nav": {
+    "about": "About",
+    "skills": "Skills",
+    "experience": "Experience",
+    "projects": "Projects",
+    "education": "Education",
+    "contact": "Contact",
+    "main": "Main",
+    "skipToContent": "Skip to content",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "theme": {
+    "toggle": "Toggle theme",
+    "light": "Light mode",
+    "dark": "Dark mode"
+  },
+  "language": {
+    "label": "Language"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "contact": "Get in touch",
+    "resume": "Download CV"
+  },
+  "sections": {
+    "about": {
+      "eyebrow": "About",
+      "title": "A bit about me"
+    },
+    "skills": {
+      "eyebrow": "Skills",
+      "title": "Tools I work with"
+    },
+    "experience": {
+      "eyebrow": "Experience",
+      "title": "Where I've worked"
+    },
+    "community": "Community & leadership",
+    "projects": {
+      "eyebrow": "Projects",
+      "title": "Things I've built"
+    },
+    "featured": "Professional work",
+    "personal": "Personal projects",
+    "moreOnGithub": "More on GitHub",
+    "education": {
+      "eyebrow": "Education",
+      "title": "Studies & achievements"
+    },
+    "achievements": "Achievements",
+    "languages": "Languages",
+    "contact": {
+      "eyebrow": "Contact",
+      "title": "Let's work together",
+      "text": "I'm open to new opportunities and collaborations. The quickest way to reach me is by email.",
+      "email": "Send me an email",
+      "copy": "Copy email",
+      "copied": "Copied!"
+    }
+  },
+  "common": {
+    "present": "Present",
+    "email": "Email",
+    "phone": "Phone",
+    "location": "Location",
+    "builtWith": "Built with Next.js"
+  }
+}

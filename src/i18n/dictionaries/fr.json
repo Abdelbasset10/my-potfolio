@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "title": "Abdelbasset Rezazi — Développeur Full Stack",
+    "description": "Portfolio de Rezazi Mohamed Abdelbasset, développeur full stack et ingénieur logiciel qui crée des applications web et mobiles avec React, Next.js et Node.js."
+  },
+  "nav": {
+    "about": "À propos",
+    "skills": "Compétences",
+    "experience": "Expérience",
+    "projects": "Projets",
+    "education": "Formation",
+    "contact": "Contact",
+    "main": "Principal",
+    "skipToContent": "Aller au contenu",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu"
+  },
+  "theme": {
+    "toggle": "Changer de thème",
+    "light": "Mode clair",
+    "dark": "Mode sombre"
+  },
+  "language": {
+    "label": "Langue"
+  },
+  "hero": {
+    "greeting": "Bonjour, je suis",
+    "contact": "Me contacter",
+    "resume": "Télécharger le CV"
+  },
+  "sections": {
+    "about": {
+      "eyebrow": "À propos",
+      "title": "Quelques mots sur moi"
+    },
+    "skills": {
+      "eyebrow": "Compétences",
+      "title": "Les outils que j'utilise"
+    },
+    "experience": {
+      "eyebrow": "Expérience",
+      "title": "Mon parcours professionnel"
+    },
+    "community": "Communauté & leadership",
+    "projects": {
+      "eyebrow": "Projets",
+      "title": "Ce que j'ai réalisé"
+    },
+    "featured": "Projets professionnels",
+    "personal": "Projets personnels",
+    "moreOnGithub": "Plus sur GitHub",
+    "education": {
+      "eyebrow": "Formation",
+      "title": "Études & distinctions"
+    },
+    "achievements": "Distinctions",
+    "languages": "Langues",
+    "contact": {
+      "eyebrow": "Contact",
+      "title": "Travaillons ensemble",
+      "text": "Je suis ouvert à de nouvelles opportunités et collaborations. Le moyen le plus rapide de me joindre est l'e-mail.",
+      "email": "M'envoyer un e-mail",
+      "copy": "Copier l'e-mail",
+      "copied": "Copié !"
+    }
+  },
+  "common": {
+    "present": "Aujourd'hui",
+    "email": "E-mail",
+    "phone": "Téléphone",
+    "location": "Localisation",
+    "builtWith": "Réalisé avec Next.js"
+  }
+}
